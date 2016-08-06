@@ -9,5 +9,10 @@
     </head>
     <body>
         <h1>Holi</h1>
+        <form method="get">
+            <input type="submit" value="Reporte 1">
+            <input type="submit" value="Reporte 2">
+            <input type="submit" value="Reporte 3">
+        </form>
     </body>
 </html>

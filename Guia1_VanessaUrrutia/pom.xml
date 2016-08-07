@@ -28,12 +28,13 @@
             <scope>provided</scope>
         </dependency>
         
-        <!-- https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports -->
+<!-- https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports -->
 <dependency>
     <groupId>net.sf.jasperreports</groupId>
     <artifactId>jasperreports</artifactId>
-    <version>5.0.1</version>
+    <version>4.5.1</version>
 </dependency>
+
 
 <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 <dependency>
